@@ -12,23 +12,25 @@ using namespace std;
 // g++ serial_download.cpp -o Serial
 // ./Serial urls.txt
 
-
-
-
 vector<string> urls;
 int count = 0 ;
 void load_urls(){
     string urlline;
     ifstream reader("urls.txt");
-    if (!reader.is_open()){
-        cout <<" fail to open the urls.txt file\n";
-        exit (1);
+    
+    if (reader.is_open()){
+        cout <<" sucessfully opened urls.txt \n";
     }
+    else
+    {
+        cerr << " fail to open urls.txt \n";
+	    exit(-1);
+    }
+    
     while (!reader.eof())
     {
-        reader >>urlline;
+        reader >> urlline;
         if(!reader.eof()){
-
             urls.push_back(urlline);
             count++;
         }
