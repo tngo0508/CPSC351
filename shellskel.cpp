@@ -61,6 +61,7 @@ int main()
                 }
             }
         }
+        wait(NULL);
     }
     while(cmdBuff != "exit");
 
