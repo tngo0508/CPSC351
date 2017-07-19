@@ -17,28 +17,16 @@ int count = 0 ;
 
 void load_urls(){
     string urlline;
-<<<<<<< HEAD
     ifstream reader("url.txt");
     if (!reader.is_open()){
         cout <<" fail to open the urls.txt file\n";
         exit (1);
-=======
-    ifstream reader("urls.txt");
-    
-    if (reader.is_open()){
-        cout <<" sucessfully opened urls.txt \n";
->>>>>>> c4642bb9e36eb4d6797cc13023e8001e881ee988
     }
-    else
-    {
-        cerr << " fail to open urls.txt \n";
-	    exit(-1);
-    }
-    
     while (!reader.eof())
     {
-        reader >> urlline;
+        reader >>urlline;
         if(!reader.eof()){
+
             urls.push_back(urlline);
             count++;
         }
@@ -82,3 +70,4 @@ int main(int argc, char* argv[])
     return 0;
 
 }
+
