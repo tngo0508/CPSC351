@@ -1,5 +1,5 @@
 # Assignment 1
-Thomas Ngo *tabspace* tngo0508@csu.fullerton.edu <br />
+Thomas Ngo <tab> tngo0508@csu.fullerton.edu <br />
 Danh Pham  *tabspace* danhpham312@gmail.com <br />
 Paul Smith *tabspace* dehobo84@gmail.com <br />
 Susmitha  *tabspace*  susmitha.chittem@csu.fullerton.edu <br />
