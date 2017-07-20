@@ -11,7 +11,6 @@ For shellskel.cpp: <br />
 $ g++ shellskel.cpp
 $ ./a.out
 ```
-<br />
 For serial.cpp: <br />
 ```
 $ g++ serial.cpp
