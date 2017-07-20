@@ -9,8 +9,8 @@ Susmitha    susmitha.chittem@csu.fullerton.edu <br />
 
    For shellskel.cpp: <br />
     ```
-    $ g++ shellskel.cpp
-    $ ./a.out 
+    $ g++ shellskel.cpp <br />
+    $ ./a.out <br />
     ``` <br />
    For serial.cpp: <br />
     ```
