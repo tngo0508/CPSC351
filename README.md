@@ -7,8 +7,10 @@ Susmitha susmitha.chittem@csu.fullerton.edu <br />
 ### The programminng language: C++ <br />
 ### How to execute the program <br />
 For shellskel.cpp: <br />
+```
 $ g++ shellskel.cpp
 $ ./a.out
+```
 <br />
 For serial.cpp: <br />
 $ g++ serial.cpp
