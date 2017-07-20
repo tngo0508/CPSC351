@@ -1,8 +1,8 @@
 # Assignment 1
-<p>Thomas Ngo   tngo0508@csu.fullerton.edu </p><br />
-`Danh Pham  ` danhpham312@gmail.com <br />
-`Paul Smith ` dehobo84@gmail.com <br />
-`Susmitha ` susmitha.chittem@csu.fullerton.edu <br />
+Thomas Ngo  tngo0508@csu.fullerton.edu <br />
+Danh Pham   danhpham312@gmail.com <br />
+Paul Smith  dehobo84@gmail.com <br />
+Susmitha    susmitha.chittem@csu.fullerton.edu <br />
 
 ### The programminng language: C++ <br />
 ### How to execute the program <br />
