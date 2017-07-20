@@ -17,7 +17,6 @@ For serial.cpp: <br />
 $ g++ serial.cpp
 $ time ./a.out url.txt
 ```
-<br />
 For parallel.cpp: <br />
 ```
 $ g++ parallel.cpp
