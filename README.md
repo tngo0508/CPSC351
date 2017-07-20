@@ -11,7 +11,8 @@ Susmitha    susmitha.chittem@csu.fullerton.edu <br />
     ```sh
     $ g++ shellskel.cpp
     $ ./a.out
-    ``` <br />
+    ``` 
+    <br />
    For serial.cpp: <br />
     ```sh
     $ g++ serial.cpp
