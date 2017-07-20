@@ -8,17 +8,17 @@ Susmitha    susmitha.chittem@csu.fullerton.edu <br />
 ### How to execute the program <br />
 
    For shellskel.cpp: <br />
-    ```
-    $ g++ shellskel.cpp <br />
-    $ ./a.out <br />
+    ```sh
+    $ g++ shellskel.cpp
+    $ ./a.out
     ``` <br />
    For serial.cpp: <br />
-    ```
+    ```sh
     $ g++ serial.cpp
     $ time ./a.out url.txt
     ``` <br />
    For parallel.cpp: <br />
-   ```
+   ```sh
     $ g++ parallel.cpp
     $ time ./a.out url.txt
     ``` <br />
