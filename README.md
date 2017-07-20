@@ -1,7 +1,7 @@
-Thomas Ngo  tngo0508@csu.fullerton.edu
-Danh Pham   danhpham312@gmail.com
-Paul Smith  dehobo84@gmail.com
-Susmitha    susmitha.chittem@csu.fullerton.edu
+Thomas Ngo  tngo0508@csu.fullerton.edu <br />
+Danh Pham   danhpham312@gmail.com <br />
+Paul Smith  dehobo84@gmail.com <br />
+Susmitha    susmitha.chittem@csu.fullerton.edu <br /> <br />
 
 The programminng language: C++
 How to execute the program
