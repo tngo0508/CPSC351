@@ -7,11 +7,6 @@
 #include <vector>
 using namespace std;    
 
-
-// compile & run
-// g++ serial_download.cpp -o Serial
-// ./Serial urls.txt
-
 vector<string> urls;
 int count = 0 ;
 void load_urls(){
@@ -55,10 +50,6 @@ void create_child(){
         }
         else{  
             urls.pop_back();
-           // urls.end();
-            //1
-            //wait(&pid);
-            //1
         }
 
     }
