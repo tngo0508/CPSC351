@@ -39,7 +39,7 @@ void create_child(){
         }
         else if (pid ==0){
             cerr<< " # file " << i << ".......downloading now \n\n ";
-            if (execlp("/usr/bin/wget", "wget",urls.back().c_str(), NULL)<0){
+            if (execlp("wget", "wget",urls.back().c_str(), NULL)<0){
                 perror("execlp");
                 exit(1);
             }
