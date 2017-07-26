@@ -7,11 +7,6 @@
 #include <vector>
 using namespace std;    
 
-
-// compile & run
-// g++ serial_download.cpp -o Serial
-// ./Serial urls.txt
-
 vector<string> urls;
 int count = 0 ;
 
